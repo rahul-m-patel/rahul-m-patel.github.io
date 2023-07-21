@@ -1,24 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.c1ce5d92.css",
-    "main.js": "/static/js/main.9b38dc5b.js",
+    "main.css": "/static/css/main.ee69d4e3.css",
+    "main.js": "/static/js/main.545e272a.js",
     "static/media/BITS_Pilani.png": "/static/media/BITS_Pilani.e48909ff2eb72ba338ba.png",
     "static/media/Python.png": "/static/media/Python.82efb64f8698a267f8bf.png",
     "static/media/SAP.png": "/static/media/SAP.1f3a0db3158487643d18.png",
-    "static/media/java.png": "/static/media/java.d0be53e356542c3f88d2.png",
     "static/media/C++.png": "/static/media/C++.d8d9a2f879d60721c1ac.png",
     "static/media/Tensorflow.png": "/static/media/Tensorflow.2e600df8bf7dc40e2886.png",
     "static/media/NYU.png": "/static/media/NYU.95cc73de9c4eae988563.png",
     "static/media/DB.png": "/static/media/DB.24827e43b23d87b8ab86.png",
-    "static/media/mongo.png": "/static/media/mongo.2a1528ddc31d4ce8518d.png",
     "static/media/github.png": "/static/media/github.3b9e32903aa89111875d.png",
     "static/media/logo.png": "/static/media/logo.1ec4959732627333a977.png",
     "index.html": "/index.html",
-    "main.c1ce5d92.css.map": "/static/css/main.c1ce5d92.css.map",
-    "main.9b38dc5b.js.map": "/static/js/main.9b38dc5b.js.map"
+    "main.ee69d4e3.css.map": "/static/css/main.ee69d4e3.css.map",
+    "main.545e272a.js.map": "/static/js/main.545e272a.js.map"
   },
   "entrypoints": [
-    "static/css/main.c1ce5d92.css",
-    "static/js/main.9b38dc5b.js"
+    "static/css/main.ee69d4e3.css",
+    "static/js/main.545e272a.js"
   ]
 }
