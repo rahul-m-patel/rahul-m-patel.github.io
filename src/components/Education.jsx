@@ -5,6 +5,7 @@ import NYU from '../assets/NYU.png'
 export default function Education() {
     return (
         <div name='education' className='w-full h-screen bg-[#7F00FF] text-gray-300'>
+            <div className="container"> 
             <div className='flex flex-col justify-center items-center w-full h-full'>
                 <div className='max-w-[1000px] w-full grid grid-cols-2 gap-8'>
                     <div className='sm:text-right pb-8 pl-4'>
@@ -16,7 +17,7 @@ export default function Education() {
                 </div>
                 <div className='max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4'>
                     <div className='sm:text-right text-4xl font-bold'>
-                        <img className='mx-auto' style={{ height: '200px' }} src={BITS} alt="HTML icon" />
+                        <img className='mx-auto' style={{ height: '120px' }} src={BITS} alt="HTML icon" />
                     </div>
                     <div>
                         <p><p className='font-bold'>BE (Hons) Computer Science [Aug 2017 - May 2021]</p>
@@ -25,9 +26,10 @@ export default function Education() {
                             - Data Structures and Algorithms<br></br>
                             - Database<br></br>
                             - Operating System<br></br>
-                            - Information Retrieval<br></br>
+                            {/* - Information Retrieval<br></br>
                             - Artificial Intelligence<br></br>
-                            - Computer Networks<br></br></p>
+                            - Computer Networks<br></br> */}
+                            </p>
                     </div>
                 </div>
                 <br></br>
@@ -39,16 +41,17 @@ export default function Education() {
                     <div>
                         <p><p className='font-bold'>Masters in Computer Science [Sept 2022 - May 2024]</p>
                             Coursework:<br></br>
-                            - Algorithms<br></br>
+                            {/* - Algorithms<br></br> */}
                             - Linear Algebra, Probability and Statistics<br></br>
                             - Operating Systems<br></br>
                             - Data Science for Business<br></br>
-                            - Programming Languages
+                            {/* - Programming Languages */}
                         </p>
                     </div>
 
                 </div>
 
+            </div>
             </div>
         </div>
     )

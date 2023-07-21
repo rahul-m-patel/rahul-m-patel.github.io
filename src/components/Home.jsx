@@ -7,14 +7,14 @@ export default function Home() {
     <div name='home' className='w-full h-screen bg-[#7F00FF]'>
       {/* Container */}
       <div className='max-w-[1000px] mx-auto px-8 flex flex-col justify-center h-full'>
-        <p className='text-pink-600 text-2xl'>Hi, myself</p>
-        <h1 className='text-4xl sm:text-7xl font-bold text-[#ccd6f6]'>
+        <p className='text-green-100 text-2xl'>Hi, myself</p>
+        <h1 className='text-4xl sm:text-7xl font-bold text-[#99ecf1]'>
           RAHUL PATEL
         </h1>
-        <h2 className='text-4xl sm:text-7xl font-bold text-[#8892b0]'>
+        <h2 className='text-4xl sm:text-7xl font-bold text-[#4bebad]'>
           I'm a Software Engineer.
         </h2>
-        <p className='text-[#8892b0] py-4 max-w-[700px]'>
+        <p className='text-[#4bebad] py-4 max-w-[700px]'>
         👨🏻‍💻I'm a graduate Computer Science student at NYU, Courant</p>
        
         <div>
