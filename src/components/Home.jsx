@@ -7,7 +7,7 @@ export default function Home() {
     <div name='home' className='w-full h-screen bg-[#7F00FF]'>
       {/* Container */}
       <div className='max-w-[1000px] mx-auto px-8 flex flex-col justify-center h-full'>
-        <p className='text-green-100 text-2xl'>Hi, myself</p>
+        <p className='text-green-100 text-2xl'>Hi, my name is</p>
         <h1 className='text-4xl sm:text-7xl font-bold text-[#99ecf1]'>
           RAHUL PATEL
         </h1>
@@ -15,7 +15,7 @@ export default function Home() {
           I'm a Software Engineer.
         </h2>
         <p className='text-[#4bebad] py-4 max-w-[700px]'>
-        👨🏻‍💻I'm a graduate Computer Science student at NYU, Courant</p>
+        👨🏻‍💻Graduate Computer Science student at NYU, Courant</p>
        
         <div>
             <a href='https://media.licdn.com/dms/document/media/D4E2DAQGkbN5JjrnTGw/profile-treasury-document-pdf-analyzed/0/1689607592207?e=1691020800&v=beta&t=QoD2XSxu8s8iBTqSeGQYbgeM5R6B4ETkpNUXcGs7Qhw'>

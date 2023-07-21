@@ -12,7 +12,7 @@ export default function Navbar() {
   return (
     <div className='fixed w-full h-[80px] flex justify-between items-center px-4 bg-[#7F00FF] text-gray-300'>
         <div>
-            <img src={Logo} alt="Logo Image" style={{width:'230px'}}/>
+            <img src={Logo} alt="Logo" style={{width:'230px'}}/>
         </div>
 
         <ul className='hidden md:flex'>

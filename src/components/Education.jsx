@@ -4,7 +4,11 @@ import NYU from '../assets/NYU.png'
 
 export default function Education() {
     return (
+        
         <div name='education' className='w-full h-screen bg-[#7F00FF] text-gray-300'>
+            <br></br>
+            <br></br>
+            <br></br>
             <div className="container"> 
             <div className='flex flex-col justify-center items-center w-full h-full'>
                 <div className='max-w-[1000px] w-full grid grid-cols-2 gap-8'>
