@@ -89,7 +89,7 @@ export default function Navbar() {
           <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]'>
             <a
               className='flex justify-between items-center w-full text-gray-300'
-              href='https://media.licdn.com/dms/document/media/D4E2DAQGkbN5JjrnTGw/profile-treasury-document-pdf-analyzed/0/1689607592207?e=1691020800&v=beta&t=QoD2XSxu8s8iBTqSeGQYbgeM5R6B4ETkpNUXcGs7Qhw'
+              href='https://drive.google.com/file/d/1ZhEMmkNUhZsHwKbU3tL06SLbZ9SBR3Ye/view?usp=sharing'
             >
               Resume <BsFillPersonLinesFill size={30} />
             </a>
