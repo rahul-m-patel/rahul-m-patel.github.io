@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.07308ff1.css",
-    "main.js": "/static/js/main.0f8fb8a1.js",
+    "main.js": "/static/js/main.2bb181fd.js",
     "static/media/BITS_Pilani.png": "/static/media/BITS_Pilani.e48909ff2eb72ba338ba.png",
     "static/media/Python.png": "/static/media/Python.82efb64f8698a267f8bf.png",
     "static/media/SAP.png": "/static/media/SAP.1f3a0db3158487643d18.png",
@@ -13,10 +13,10 @@
     "static/media/logo.png": "/static/media/logo.1ec4959732627333a977.png",
     "index.html": "/index.html",
     "main.07308ff1.css.map": "/static/css/main.07308ff1.css.map",
-    "main.0f8fb8a1.js.map": "/static/js/main.0f8fb8a1.js.map"
+    "main.2bb181fd.js.map": "/static/js/main.2bb181fd.js.map"
   },
   "entrypoints": [
     "static/css/main.07308ff1.css",
-    "static/js/main.0f8fb8a1.js"
+    "static/js/main.2bb181fd.js"
   ]
 }
