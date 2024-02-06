@@ -18,7 +18,7 @@ export default function Home() {
         👨🏻‍💻Graduate Computer Science student at NYU, Courant</p>
        
         <div>
-            <a href='https://drive.google.com/file/d/1ZhEMmkNUhZsHwKbU3tL06SLbZ9SBR3Ye/view?usp=sharing'>
+            <a href='https://drive.google.com/file/d/1RuSlLhittzpfM0gaSnEp4U--Q6l9iYZc/view?usp=sharing'>
           <button className='text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-pink-600 hover:border-pink-600'>
             View Resume
             <span className='duration-300'>
